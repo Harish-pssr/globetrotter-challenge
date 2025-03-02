@@ -1,0 +1,163 @@
+[
+    {
+      "city": "New York",
+      "country": "USA",
+      "clues": [
+        "This city is known as 'The Big Apple'.",
+        "It is home to a statue gifted by France in 1886."
+      ],
+      "fun_fact": [
+        "Times Square was originally called Longacre Square until 1904.",
+        "New York's subway system is one of the largest in the world."
+      ],
+      "trivia": [
+        "The Empire State Building has its own zip code.",
+        "The first pizzeria in the US opened in New York in 1905."
+      ]
+    },
+    {
+      "city": "Tokyo",
+      "country": "Japan",
+      "clues": [
+        "This city has the busiest pedestrian crossing in the world.",
+        "It was formerly known as Edo."
+      ],
+      "fun_fact": [
+        "Tokyo is home to the world's tallest tower, the Tokyo Skytree.",
+        "The city has more Michelin-starred restaurants than any other city."
+      ],
+      "trivia": [
+        "The bullet trains (Shinkansen) can travel up to 320 km/h.",
+        "Tokyo Disneyland was the first Disney park outside the US."
+      ]
+    },
+    {
+      "city": "Sydney",
+      "country": "Australia",
+      "clues": [
+        "This city is famous for its Opera House.",
+        "It hosted the 2000 Summer Olympics."
+      ],
+      "fun_fact": [
+        "The Sydney Opera House's design was inspired by orange peels.",
+        "Bondi Beach is one of the most famous beaches in the world."
+      ],
+      "trivia": [
+        "Sydney Harbour is home to the world's deepest natural harbor.",
+        "Kangaroos outnumber humans in Australia."
+      ]
+    },
+    {
+      "city": "London",
+      "country": "United Kingdom",
+      "clues": [
+        "This city has a giant clock tower called Big Ben.",
+        "It is home to a royal family."
+      ],
+      "fun_fact": [
+        "The London Underground is the oldest subway system in the world.",
+        "The Queen does not need a passport to travel."
+      ],
+      "trivia": [
+        "London has over 170 museums.",
+        "Buckingham Palace has over 700 rooms."
+      ]
+    },
+    {
+      "city": "Dubai",
+      "country": "UAE",
+      "clues": [
+        "This city has the world's tallest building.",
+        "It is famous for its man-made islands."
+      ],
+      "fun_fact": [
+        "Dubai was a small fishing village 50 years ago.",
+        "The Burj Khalifa is 828 meters tall."
+      ],
+      "trivia": [
+        "Dubai has no income tax.",
+        "It is home to the world’s busiest international airport."
+      ]
+    },
+    {
+      "city": "Cairo",
+      "country": "Egypt",
+      "clues": [
+        "This city is home to the last standing wonder of the ancient world.",
+        "It is known as the 'City of a Thousand Minarets'."
+      ],
+      "fun_fact": [
+        "The Great Pyramid of Giza was the tallest man-made structure for over 3,800 years.",
+        "Egyptians invented one of the earliest known writing systems."
+      ],
+      "trivia": [
+        "Cairo has the largest population in the Arab world.",
+        "The Nile River flows through this city."
+      ]
+    },
+    {
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "clues": [
+        "This city is famous for its giant Christ statue.",
+        "It hosts the world's biggest carnival festival."
+      ],
+      "fun_fact": [
+        "The city’s name means 'River of January'.",
+        "Rio's beaches have different sand colors due to mineral content."
+      ],
+      "trivia": [
+        "Brazil has won the most FIFA World Cups.",
+        "The Samba dance originated in this city."
+      ]
+    },
+    {
+      "city": "Moscow",
+      "country": "Russia",
+      "clues": [
+        "This city has a famous Red Square.",
+        "It is home to the Kremlin."
+      ],
+      "fun_fact": [
+        "Moscow's metro stations look like palaces.",
+        "The city has the world’s busiest McDonald's."
+      ],
+      "trivia": [
+        "Moscow has more billionaires than any other city in Europe.",
+        "It gets extremely cold, with winters reaching -30°C."
+      ]
+    },
+    {
+      "city": "Rome",
+      "country": "Italy",
+      "clues": [
+        "This city has an ancient amphitheater used for gladiator fights.",
+        "It is known as the 'Eternal City'."
+      ],
+      "fun_fact": [
+        "The Colosseum could hold up to 50,000 spectators.",
+        "Vatican City, the smallest country in the world, is inside Rome."
+      ],
+      "trivia": [
+        "Rome has more fountains than any other city.",
+        "Ancient Romans used urine as a mouthwash."
+      ]
+    },
+    {
+      "city": "Beijing",
+      "country": "China",
+      "clues": [
+        "This city is home to the Forbidden City.",
+        "It hosted the 2008 Olympics."
+      ],
+      "fun_fact": [
+        "The Great Wall is over 21,000 km long.",
+        "Peking duck is a famous dish from this city."
+      ],
+      "trivia": [
+        "Beijing has 7 UNESCO World Heritage Sites.",
+        "It has the world's largest airport terminal."
+      ]
+    }
+  ]
+  

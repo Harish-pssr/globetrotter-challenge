@@ -1,0 +1,17 @@
+# Ignore Python virtual environment
+venv/
+__pycache__/
+alembic.ini
+# Ignore environment variables
+.env
+
+# Ignore database migrations (optional)
+migrations/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Node.js dependencies (for frontend)
+frontend/node_modules/
+frontend/dist/
