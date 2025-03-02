@@ -29,7 +29,7 @@ Welcome to the **Globetrotter Challenge**, an interactive game where users test 
 ## 🔧 **Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/globetrotter-frontend.git
+git clone https://github.com/Harish-pssr/globetrotter-challenge.git
 cd globetrotter-frontend
 ```
 

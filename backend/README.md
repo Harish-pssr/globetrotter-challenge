@@ -32,7 +32,7 @@ backend/
 ### **1️⃣ Clone the Repository**
 
 ```bash
-git clone https://github.com/your-repo/globetrotter-backend.git
+git clone https://github.com/Harish-pssr/globetrotter-challenge.git
 cd globetrotter-backend
 ```
 
@@ -68,8 +68,6 @@ alembic upgrade head
 ```bash
 uvicorn app.main:app --reload
 ```
-
-Swagger UI available at: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 
 ---
 
