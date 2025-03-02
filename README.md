@@ -1,7 +1,3 @@
-Here's a **brief README** for your repository homepage:  
-
----
-
 ### **🌍 Globetrotter Challenge**  
 _A fun travel guessing game where users decode cryptic clues to guess famous destinations!_  
 
